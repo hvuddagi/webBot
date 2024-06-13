@@ -12,7 +12,8 @@ A RAG bot is short for Retrieval-Augmented Generation. This means that we are go
 
 This is more clearly explained in the Youtube video tutorial, but here is a diagram that shows the process:
 
-<img src="/Users/hvuddagi/Downloads/HTML-rag-diagram.jpg"/>
+![HTML-rag-diagram](https://github.com/hvuddagi/webBot/assets/103530858/a39e4f67-1c8d-4d2d-a5b7-8bec15190d50)
+
 
 Installation
 Ensure you have Python installed on your system. Then clone this repository:
